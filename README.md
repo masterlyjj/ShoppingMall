@@ -29,5 +29,7 @@ spring framework를 이용한 악세사리 쇼핑몰입니다.
 ![image](https://user-images.githubusercontent.com/96754807/152901077-909afd6e-9cfc-431f-be4f-40f982621094.png)
 ![image](https://user-images.githubusercontent.com/96754807/152901085-ae3d7cb0-26ab-47c7-b030-addaa985474c.png)
 
-
+## 6. 경영자 / 관리자 기능
+/manager페이지로 이동해서 관리자 / 경영자 계정으로 별도 로그인
+관리자 경영자는 SQL에서 별도로 계정을 생성한다.
 
