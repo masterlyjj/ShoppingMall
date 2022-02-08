@@ -1,4 +1,4 @@
-# SHOPPINGMALL 프로젝트
+# 경영자 /관리자기능이 있는 SHOPPINGMALL 만들기
 
 
 ## 1. 목차
